@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://obarthrea.github.io/sitemap
+Sitemap: https://obarthrea.github.io/app/sitemap
+Sitemap: https://obarthrea.github.io/assets/sitemap
+Sitemap: https://obarthrea.github.io/css/sitemap
+Sitemap: https://obarthrea.github.io/includes/sitemap
+Sitemap: https://obarthrea.github.io/item/sitemap
+Sitemap: https://obarthrea.github.io/src/sitemap
